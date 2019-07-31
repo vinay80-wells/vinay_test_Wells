@@ -2,5 +2,5 @@
    tasks:
     - copy:
        dest: /etc/hi.txt
-       content: "Hi Vinay"
+       content: "Hi Vinay."
   
